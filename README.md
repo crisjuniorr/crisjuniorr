@@ -1,16 +1,40 @@
-## Hi there 👋
+Olá! Eu sou Cristiano! 👋
 
-<!--
-**crisjuniorr/crisjuniorr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e desenvolvimento de software. Neste espaço, compartilho meus projetos e estudos, buscando sempre aprimorar minhas habilidades e colaborar com a comunidade de desenvolvedores.
 
-Here are some ideas to get you started:
+🚀 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
+
+💻 Experiência prática com HTML, CSS e JavaScript
+
+🌱 Atualmente explorando e me aprofundando em Java
+
+📚 Focado em aprendizado contínuo e desenvolvimento profissional
+
+💡 Interessado em projetos desafiadores e que agreguem valor
+
+
+🛠️ Habilidades
+
+Front-end: HTML, CSS, JavaScript
+
+Back-end: (Em aprendizado - Java)
+
+Ferramentas: Git, GitHub
+
+
+📈 Objetivos
+
+Aprofundar meus conhecimentos em desenvolvimento back-end, especialmente com Java
+
+Contribuir para projetos open-source
+
+Colaborar com outros desenvolvedores e aprender com a comunidade
+
+
+📫 Contato
+
+Email: carvalhocristianosantos@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/cristiano-j%C3%BAnior-409550228/
